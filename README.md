@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @yashwantYSK
+- 👋 Hi, I’m Yashwant Kumar
 - 👀 I’m interested in Coding
 - 🌱 I have completed my Dual Degree (B-Tech in computer science and MBA)
 - 💞️ I’m looking to collaborate on project or JOb based on java, SQL, Android.
